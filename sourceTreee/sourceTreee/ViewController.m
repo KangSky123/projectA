@@ -22,7 +22,7 @@
     
     
     
-    ///这个是1.5版本
+    ///这个是1.6版本
 }
 
 - (void)didReceiveMemoryWarning {
